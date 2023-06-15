@@ -1,0 +1,16 @@
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\hassannadeem\Desktop\C#\switch statment\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
